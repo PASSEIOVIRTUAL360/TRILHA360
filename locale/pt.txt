@@ -1,0 +1,29 @@
+#: locale=pt
+
+## Hotspot
+
+### Text
+HotspotPanoramaOverlayTextImage_34D6C8E0_251C_E899_41BE_7A735ACF3500.text = TRILHA DOS NALFRAGADOS
+
+## Media
+
+### Image
+imlevel_3DE1D3AF_256D_B8E8_41C0_55741B47EA29.url = media/panorama_28151740_24EB_7999_41A0_B3DEE23E6E89_HS_cu2kpxlk_pt.png
+imlevel_3EEB3B26_256D_A99B_41AE_8E8921A9A7F0.url = media/popup_3C0082C1_256C_F899_41AF_FE889B6B0A14_pt_0_0.jpg
+imlevel_3EEBDB0C_256D_A9A8_41C1_EAD5A83C8277.url = media/popup_3D549A4F_256F_6BA8_41A6_DA3576D86A79_pt_0_0.jpg
+
+### Popup Image
+
+### Title
+panorama_350DB901_252C_E998_41BB_8A614EC722CF.label = NA PRAIA
+panorama_3728F93B_252C_A9E8_41C1_6B091DB7211D.label = NA PRAIA 02
+panorama_322AA29B_251B_98A8_41B3_97D45FE7CB4E.label = NA PRAIA 04
+panorama_350F96DE_252C_F8A8_41B9_399353C53170.label = Praia dos Naufragados (1)
+panorama_28151740_24EB_7999_41A0_B3DEE23E6E89.label = Praia dos Naufragados (3) copiar
+
+## Tour
+
+### Description
+
+### Title
+tour.name = TRILHA360
